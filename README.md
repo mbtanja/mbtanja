@@ -1,4 +1,5 @@
 👋 Hi, I’m Tanja. I’m an engineer diving into data science.
+
 👀 Interested in Data Engineering and Machine Learning Engineering
 
 📫 Reach me at: mickovskat@gmail.com or connect with me https://www.linkedin.com/in/mickovskat/
